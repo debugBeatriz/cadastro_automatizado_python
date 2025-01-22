@@ -1,11 +1,11 @@
 # Cadastro Automatizado com Python
 
-#Descrição
-###Foi realizado um script em Python para cadastrar usuários com base em um documento em excel e registrar no formulário que está no link dos arquivos e também feito testes.
+# Descrição
+### Foi realizado um script em Python para cadastrar usuários com base em um documento em excel e registrar no formulário que está no link dos arquivos e também feito testes.
 
-##Tecnologias Utilizadas 
+## Tecnologias Utilizadas 
 ### Linguagem Python
-##Bibliotecas
+## Bibliotecas
 ### - pyautogui
 ### - subprocess
 ### - time
